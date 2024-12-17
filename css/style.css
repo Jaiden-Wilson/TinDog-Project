@@ -44,7 +44,7 @@
     border-radius: 50%;
   }
   h1{
-    flex-basis:40%;
+    flex-basis:50%;
     padding-bottom: 0;
   }
   .grid-container{
@@ -75,7 +75,6 @@
   h1{
     font-weight:750;
     font-size:3rem;
-    
     position: relative;
     left:10%;
   }
