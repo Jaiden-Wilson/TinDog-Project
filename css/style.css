@@ -44,6 +44,10 @@
   border-radius: 50%;
 }
 h1{
+  font-weight:750;
+  font-size:3rem;
+  position: relative;
+  left:10%;
   flex-basis:50%;
   padding-bottom: 0;
 }
@@ -72,12 +76,7 @@ h1{
   left:10%;
   font-size:larger;
 }
-h1{
-  font-weight:750;
-  font-size:3rem;
-  position: relative;
-  left:10%;
-}
+
 #iphone{
   position: relative;
   right:10%;
